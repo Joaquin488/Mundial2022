@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#000000</headerColor>
+        <logo>coppadelmondo</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>Gestión del mundial 2022</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <label>El Mundial 2022</label>
+    <navType>Standard</navType>
+    <tabs>Player__c</tabs>
+    <tabs>Trainer__c</tabs>
+    <tabs>Referee__c</tabs>
+    <tabs>Equipment__c</tabs>
+    <tabs>card_sorting__c</tabs>
+    <tabs>Soccer__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>El_Mundial_2022_UtilityBar</utilityBar>
+</CustomApplication>
